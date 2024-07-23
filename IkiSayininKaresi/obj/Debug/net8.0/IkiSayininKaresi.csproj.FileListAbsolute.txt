@@ -1,0 +1,14 @@
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\bin\Debug\net8.0\IkiSayininKaresi.exe
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\bin\Debug\net8.0\IkiSayininKaresi.deps.json
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\bin\Debug\net8.0\IkiSayininKaresi.runtimeconfig.json
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\bin\Debug\net8.0\IkiSayininKaresi.dll
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\bin\Debug\net8.0\IkiSayininKaresi.pdb
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\IkiSayininKaresi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\IkiSayininKaresi.AssemblyInfoInputs.cache
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\IkiSayininKaresi.AssemblyInfo.cs
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\IkiSayininKaresi.csproj.CoreCompileInputs.cache
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\IkiSayininKaresi.dll
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\refint\IkiSayininKaresi.dll
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\IkiSayininKaresi.pdb
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\IkiSayininKaresi.genruntimeconfig.cache
+C:\Users\BEY\Documents\WebDevelopment\Wissen-Akademie\Lectures\002-May28-DataTypes\HelloWorldApp\IkiSayininKaresi\obj\Debug\net8.0\ref\IkiSayininKaresi.dll
